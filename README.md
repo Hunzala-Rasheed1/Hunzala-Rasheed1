@@ -8,7 +8,11 @@
 
 ---
 
-I'm a **Senior AI/ML Engineer** with **3+ years of experience** building production-ready AI systems — from fine-tuned LLMs and RAG pipelines to multi-agent chatbots and computer vision solutions.
+Senior AI/ML Engineer with 3+ years of hands-on experience designing and deploying production-grade AI systems. Specialized in fine-tuning open-source LLMs (HuggingFace/PyTorch), building scalable RAG architectures, and developing multi-agent AI systems for real-world business applications.
+
+Proven expertise in end-to-end AI pipelines — from data ingestion and model training to API deployment using FastAPI and workflow orchestration with Apache Airflow. Experienced in integrating LLM APIs (OpenAI, HuggingFace), building intelligent chatbots, automation systems, and computer vision solutions.
+
+Strong background in system architecture, model optimization, and delivering scalable, secure AI products in SaaS environments.
 
 ## Languages & Frameworks
 
