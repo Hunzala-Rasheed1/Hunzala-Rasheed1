@@ -8,7 +8,7 @@
 
 ---
 
-I'm a **Senior AI/ML Engineer** with **3+ years of experience** building production-ready AI systems — from fine-tuned LLMs and RAG pipelines to multi-agent chatbots and computer vision solutions. Currently leading AI integration at **Cloudpacer**, designing scalable agent-based automation for SaaS platforms.
+I'm a **Senior AI/ML Engineer** with **3+ years of experience** building production-ready AI systems — from fine-tuned LLMs and RAG pipelines to multi-agent chatbots and computer vision solutions.
 
 ## Languages & Frameworks
 
