@@ -1,6 +1,6 @@
 # Hunzala Rasheed
 
-**Senior AI/ML Engineer** | Building Intelligent Systems & AI Agents
+**Software Engineer** | Building Intelligent Systems & AI Agents
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunzala-rasheed-77992a277/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunzalarasheed14@gmail.com)
@@ -8,7 +8,7 @@
 
 ---
 
-Senior AI/ML Engineer with 3+ years of hands-on experience designing and developing production-grade AI systems. Specialized in fine-tuning open-source LLMs (HuggingFace/PyTorch), building scalable RAG architectures, and developing multi-agent AI systems for real-world business applications.
+Software Engineer with 4+ years of hands-on experience designing and developing production-grade AI systems. Specialized in fine-tuning open-source LLMs (HuggingFace/PyTorch), building scalable RAG architectures, and developing multi-agent AI systems for real-world business applications.
 
 Proven expertise in end-to-end AI pipelines — from data ingestion and model training to API deployment using FastAPI and workflow orchestration. Experienced in integrating LLM APIs (OpenAI, HuggingFace), building intelligent chatbots, automation systems, and computer vision solutions.
 
